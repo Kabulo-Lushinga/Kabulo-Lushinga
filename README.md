@@ -1,1 +1,1 @@
-Hi, I’m Bulo, a Junior Software Developer.
+Hi, I’m Bulo, an Expert Software Developer.
